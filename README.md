@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unknown Inj3ctor</h1>
+<h1 align="center">Hi 👋, I'm Majhul Inj3ctor</h1>
 <h3 align="center">A passionate Bug Hunter from Mountains</h3>
 
 <h3 align="left">Connect with me:</h3>
